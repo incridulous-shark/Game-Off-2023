@@ -7,4 +7,4 @@ To be written
 The following will need to be installed from the Unity Asset store.
 * LeanTween (Unity Asset Store)
 ### Installation
-This project uses Unity version 2022.3.9f1. Once installed, launch Unity in safe mode (as it will not give you a choice). While in safe mode, use the package manager to install the project [Dependencies](#Dependencies) listed above. Once done, restart the project and all should be set!
+This project uses Unity version 2022.3.9f1. Once installed, launch Unity in safe mode (as it will not give you a choice). While in safe mode, use the package manager to install the project [Dependencies](#Dependencies) listed above. After all dependencies are installed Unity should automatically exit safe mode. If this is not the case, try restarting Unity.
