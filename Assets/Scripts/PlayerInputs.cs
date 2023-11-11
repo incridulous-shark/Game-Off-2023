@@ -34,6 +34,8 @@ public class PlayerInputs : MonoBehaviour
         }
 
         instance = this;
+        DontDestroyOnLoad(this.gameObject);
+
         InitInputEvents();
         Debug.Log($"Current Action Map: {playerInput.currentActionMap.name}");
     }
